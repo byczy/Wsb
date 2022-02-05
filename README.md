@@ -2,11 +2,11 @@
 
 Cel / Opis - 2 zdania
 
-[] napisac projekt 
-[] utworzyć readme
-[] katalog docs 
-[] Przesłac wykładowcy 
-[] Zalicznie :)
+- [] napisac projekt 
+- [] utworzyć readme
+- [] katalog docs 
+- [] Przesłac wykładowcy 
+- [] Zalicznie :)
 
 ## Deployment
 
