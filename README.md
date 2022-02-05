@@ -10,7 +10,7 @@ Cel / Opis - 2 zdania
 
 ## Deployment
 
-** tu dokładnie opisać wszytkie komendy **
+**tu dokładnie opisać wszytkie komendy**
 
 ```bash
 export X=
