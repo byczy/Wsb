@@ -2,10 +2,15 @@
 
 Cel / Opis - 2 zdania
 
-
-* docs: []()
+[] napisac projekt 
+[] utworzyć readme
+[] katalog docs 
+[] Przesłac wykładowcy 
+[] Zalicznie :)
 
 ## Deployment
+
+** tu dokładnie opisać wszytkie komendy **
 
 ```bash
 export X=
@@ -21,5 +26,6 @@ Przygotowanie lokalnego środowiska.
 ```
 
 ## More examples
-
+* Linki do przykładów *
+This site was built using [GitHub Pages](https://pages.github.com/)
 
