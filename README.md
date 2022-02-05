@@ -2,11 +2,11 @@
 
 Cel / Opis - 2 zdania
 
-- [] napisac projekt 
-- [] utworzyć readme
-- [] katalog docs 
-- [] Przesłac wykładowcy 
-- [] Zalicznie :)
+- [ ] napisac projekt 
+- [ ] utworzyć readme
+- [ ] katalog docs 
+- [ ] Przesłac wykładowcy 
+- [ ] Zalicznie :)
 
 ## Deployment
 
@@ -26,6 +26,4 @@ Przygotowanie lokalnego środowiska.
 ```
 
 ## More examples
-* Linki do przykładów *
-This site was built using [GitHub Pages](https://pages.github.com/)
-
+* Linki do przykładów * [GitHub Pages](https://pages.github.com/)
