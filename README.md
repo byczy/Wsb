@@ -1,0 +1,2 @@
+# Wsb
+Projekt na zaliczenie 
